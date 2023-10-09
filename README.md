@@ -31,6 +31,7 @@ Slew rate = 20V/u sec <br>
 ICMR(+) = 1.6V <br>
 ICMR(-) = 0.8V <br>
 Cl = 2pF <br>
+Cc >= 440pF <br>
 Power Dissipation <= 300uW <br>
 
 # Design Process 
