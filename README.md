@@ -43,8 +43,8 @@ I5 is found using Slew Rate <br>
 
 # Technology Used
 180nm (simulated once but will try again for better results) <br>
-90nm (yet to be completed) <br>
-45nm (yet to be completed) <br>
+90nm (Ongoing) <br>
+45nm (Ongoing) <br>
 
 # Status
 Ongoing
