@@ -23,27 +23,27 @@ Design and Layout implementation of a high-performance two-stage Operational Amp
    - Miller-compensated two-stage op-amps are commonly used in high-frequency applications where both bandwidth and stability are critical factors, such as in communication systems, instrumentation amplifiers, and other precision electronics.
 
 # Design-Specification
-Vdd = 1.8V
-DC Gain = 20db
-GBW = 30MHz
-PM >=60 degree
-Slew rate = 20V/u sec
-ICMR(+) = 1.6V
-ICMR(-) = 0.8V
-Cl = 2pF
-Power Dissipation <= 300uW
+Vdd = 1.8V <br>
+DC Gain = 20db <br>
+GBW = 30MHz <br>
+PM >=60 degree <br>
+Slew rate = 20V/u sec <br>
+ICMR(+) = 1.6V <br>
+ICMR(-) = 0.8V <br>
+Cl = 2pF <br>
+Power Dissipation <= 300uW <br>
 
 # Design Process 
-(W/L) ratio of M3,M4 is found using ICMR(+)
-(W/L) ratio of M1,M2 is found using GBW
-I5 is found using Slew Rate
-(W/L) ratio of M5 is found using ICMR(-)
-(W/L) ratio of M6 is found from Gain and design of M3, M4
+(W/L) ratio of M3,M4 is found using ICMR(+) <br> 
+(W/L) ratio of M1,M2 is found using GBW <br>
+I5 is found using Slew Rate <br>
+(W/L) ratio of M5 is found using ICMR(-) <br>
+(W/L) ratio of M6 is found from Gain and design of M3, M4 <br>
 
 # Technology Used
-180nm (simulated once but will try again for better results)
-90nm (yet to be completed)
-45nm (yet to be completed)
+180nm (simulated once but will try again for better results) <br>
+90nm (yet to be completed) <br>
+45nm (yet to be completed) <br>
 
 # Status
 Ongoing
