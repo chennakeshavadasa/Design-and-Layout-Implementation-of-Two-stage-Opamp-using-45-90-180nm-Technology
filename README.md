@@ -1,4 +1,4 @@
-![image](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/assets/123294639/a5308f86-378b-4f4c-ae18-80641894a93e)# Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology
+# Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology
 Design and Layout implementation of a high-performance two-stage Operational Amplifier (OPAMP) using 45,90,180nm semiconductor technology. Achieved required gain, bandwidth, and power efficiency through simulation and characterization.
 
 # 2 Stage OPAMP Description
@@ -23,7 +23,7 @@ Design and Layout implementation of a high-performance two-stage Operational Amp
    - Miller-compensated two-stage op-amps are commonly used in high-frequency applications where both bandwidth and stability are critical factors, such as in communication systems, instrumentation amplifiers, and other precision electronics.
 
 # Circuit
-![Circuit](Circuit_2stageAmp.jpg)
+![image](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/assets/123294639/a5308f86-378b-4f4c-ae18-80641894a93e)
 
 # Design-Specification
 Vdd = 1.8V <br>
