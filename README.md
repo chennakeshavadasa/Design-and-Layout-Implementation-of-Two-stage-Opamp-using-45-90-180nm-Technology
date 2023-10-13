@@ -49,6 +49,10 @@ I5 is found using Slew Rate <br>
 90nm (Ongoing) <br>
 45nm (Ongoing) <br>
 
+# References 
+CMOS Analog Circuit Design - Book by Douglas Holberg and Phillip E. Allen <br>
+Youtube
+
 # Status
 Ongoing
 
