@@ -14,7 +14,7 @@ ICMR(+) = 1.6V <br>
 ICMR(-) = 0.8V <br>
 Cl = 10pF <br>
 Cc >= 2pF <br>
-Power Dissipation + minimum <br>
+Power Dissipation = minimum <br>
 
 # Design Process 
 (W/L) ratio of M3,M4 is found using ICMR(+) <br> 
