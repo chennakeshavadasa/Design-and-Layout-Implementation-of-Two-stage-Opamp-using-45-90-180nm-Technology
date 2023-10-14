@@ -26,16 +26,7 @@ Design and Layout implementation of a high-performance two-stage Operational Amp
 ![image](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/assets/123294639/a5308f86-378b-4f4c-ae18-80641894a93e)
 
 # Design-Specification
-Vdd = 1.8V <br>
-DC Gain = 20db <br>
-GBW = 30MHz <br>
-PM >=60 degree <br>
-Slew rate = 20V/u sec <br>
-ICMR(+) = 1.6V <br>
-ICMR(-) = 0.8V <br>
-Cl = 2pF <br>
-Cc >= 440pF <br>
-Power Dissipation <= 300uW <br>
+Check out each process technology folder 
 
 # Design Process 
 (W/L) ratio of M3,M4 is found using ICMR(+) <br> 
