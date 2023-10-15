@@ -25,7 +25,7 @@ I5 is found using Slew Rate <br>
 
 # Technology Used
 180nm (simulated once but will try again for better results) <br>
-Cadence <br>
+Cadence(Ongoing) <br>
 LTSpice <br>
 
 # References 
