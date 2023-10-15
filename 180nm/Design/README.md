@@ -1,5 +1,5 @@
 # Design and Calculation of 2 stage opamp 
-Specification: <br>
+**Specification:** <br>
 Process = 180nm<br>
 Vdd = 1.8V<br>
 DC gain = 60db<br>
