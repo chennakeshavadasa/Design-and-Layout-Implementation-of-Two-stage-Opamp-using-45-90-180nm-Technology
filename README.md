@@ -36,7 +36,7 @@ I5 is found using Slew Rate <br>
 (W/L) ratio of M6 is found from Gain and design of M3, M4 <br>
 
 # Technology Used
-180nm (simulated once but will try again for better results) <br>
+180nm <br>
 90nm (Ongoing) <br>
 45nm (Ongoing) <br>
 
