@@ -29,8 +29,8 @@ Cadence(Ongoing) <br>
 LTSpice <br>
 
 # Simulation Result 
-![image](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/blob/main/180nm/LTSpice/LTSpice_ckt.png)
-![image](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/blob/main/180nm/LTSpice/LTSpice_2stage_opamp_simu.png)
+![Circuit](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/blob/main/180nm/LTSpice/LTSpice_ckt.png)
+![Simulation](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/blob/main/180nm/LTSpice/LTSpice_2stage_opamp_simu.png)
 
 
 
