@@ -1,4 +1,4 @@
-# Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology
+# Design-and-Layout-Implementation-of-Two-stage-Opamp-using-180nm-Technology
 Design and Layout implementation of a high-performance two-stage Operational Amplifier (OPAMP) using 180nm semiconductor technology. Achieved required gain, bandwidth, and power efficiency through simulation and characterization.
 
 # Circuit
