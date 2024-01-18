@@ -1,4 +1,4 @@
-<p align="center"> Namo Vadakkumnathan ॐ</p>
+<p align="center">ॐ नमो वडक्कुमन्नाथन</p>
 
 # Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology
 Design and Layout implementation of a high-performance two-stage Operational Amplifier (OPAMP) using 45,90,180nm semiconductor technology. Achieved required gain, bandwidth, and power efficiency through simulation and characterization.
