@@ -1,6 +1,6 @@
 
-# Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology
-Design and Layout implementation of a high-performance two-stage Operational Amplifier (OPAMP) using 45,90,180nm semiconductor technology. Achieved required gain, bandwidth, and power efficiency through simulation and characterization.
+# Design-and-Layout-Implementation-of-Two-stage-Opamp-using 180nm-Technology
+Design and Layout implementation of a high-performance two-stage Operational Amplifier (OPAMP) using 180nm semiconductor technology. Achieved required gain, bandwidth, and power efficiency through simulation and characterization.
 
 # 2 Stage OPAMP Description
 1. **Two-Stage Amplification**:
@@ -38,8 +38,6 @@ I5 is found using Slew Rate <br>
 
 # Technology Used
 180nm <br>
-90nm (Ongoing) <br>
-45nm (Ongoing) <br>
 
 # References 
 CMOS Analog Circuit Design - Book by Douglas Holberg and Phillip E. Allen <br>
